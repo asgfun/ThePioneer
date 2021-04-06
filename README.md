@@ -15,7 +15,7 @@ Muligvis Perseverance
 https://mars.nasa.gov/resources/25042/mars-perseverance-rover-3d-model/
 
 
-Kravspecifikation
+Kravspecifikation:
 Solsystemets otte planeter, herunder minimum et terrain/scene på planet som skal kunne illustrere, hvordan vores app skal fungere.
 Terrain/scene skal indeholde forskellige fun facts og lærerige informationer omkring planeten.
 Funktionel måde at komme til og fra planeter.
